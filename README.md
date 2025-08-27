@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Coder GIF">
-</p>
+
  
  # Hi, I'm Paula :wave:	
  > Full Stack Web Delevoper
